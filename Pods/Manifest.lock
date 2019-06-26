@@ -1,0 +1,112 @@
+PODS:
+  - CalculateCalendarLogic (0.2.0)
+  - CSS3ColorsSwift (1.1.5)
+  - Eureka (4.3.1)
+  - Firebase/AdMob (5.15.0):
+    - Firebase/Core
+    - Google-Mobile-Ads-SDK (~> 7.37)
+  - Firebase/Core (5.15.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 5.4.0)
+  - Firebase/CoreOnly (5.15.0):
+    - FirebaseCore (= 5.1.10)
+  - FirebaseAnalytics (5.4.0):
+    - FirebaseCore (~> 5.1)
+    - FirebaseInstanceID (~> 3.3)
+    - GoogleAppMeasurement (= 5.4.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (5.1.10):
+    - GoogleUtilities/Logger (~> 5.2)
+  - FirebaseInstanceID (3.3.0):
+    - FirebaseCore (~> 5.1)
+    - GoogleUtilities/Environment (~> 5.3)
+    - GoogleUtilities/UserDefaults (~> 5.3)
+  - FSCalendar (2.8.0)
+  - Google-Mobile-Ads-SDK (7.37.0)
+  - GoogleAppMeasurement (5.4.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - GoogleUtilities/AppDelegateSwizzler (5.3.6):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (5.3.6)
+  - GoogleUtilities/Logger (5.3.6):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (5.3.6):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (5.3.6):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (5.3.6)"
+  - GoogleUtilities/Reachability (5.3.6):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (5.3.6):
+    - GoogleUtilities/Logger
+  - nanopb (0.3.901):
+    - nanopb/decode (= 0.3.901)
+    - nanopb/encode (= 0.3.901)
+  - nanopb/decode (0.3.901)
+  - nanopb/encode (0.3.901)
+  - Realm (3.7.4):
+    - Realm/Headers (= 3.7.4)
+  - Realm/Headers (3.7.4)
+  - RealmSwift (3.7.4):
+    - Realm (= 3.7.4)
+  - XLPagerTabStrip (8.1.0)
+
+DEPENDENCIES:
+  - CalculateCalendarLogic
+  - CSS3ColorsSwift
+  - Eureka
+  - Firebase/AdMob
+  - FSCalendar
+  - RealmSwift (= 3.7.4)
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CalculateCalendarLogic
+    - CSS3ColorsSwift
+    - Eureka
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - FSCalendar
+    - Google-Mobile-Ads-SDK
+    - GoogleAppMeasurement
+    - GoogleUtilities
+    - nanopb
+    - Realm
+    - RealmSwift
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  CalculateCalendarLogic: d7b6bf4ed6c0c21937efb7323c67d09cdb12a1ad
+  CSS3ColorsSwift: 3157cb1fa8fd3bc900f4f7268c32c4d1e668e83e
+  Eureka: 28ea296f06710f6745266b71f17862048941a32d
+  Firebase: 8bb9268bff82374f2cbaaabb143e725743c316ae
+  FirebaseAnalytics: c06f9d70577d79074214700a71fd5d39de5550fb
+  FirebaseCore: 35747502d9e8c6ee217385ad04446c7c2aaf9c5c
+  FirebaseInstanceID: e2fa4cb35ef5558c200f7f0ad8a53e212215f93e
+  FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
+  Google-Mobile-Ads-SDK: d028682d7450749a1955679da050eaf70d997b3e
+  GoogleAppMeasurement: 98b71f5e04142793729a5ef23e5b96651ff4b70f
+  GoogleUtilities: 95996bea7c7d9b8fb811b7507669a4a8762f80c7
+  nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
+  Realm: a469bb59e33f9926102ccaea4349822c53b9117e
+  RealmSwift: a45861b21c180f5cf0f122144b9759fa8dde3e9e
+  XLPagerTabStrip: 22d4c58200d7c105e0e407ab6bfd01a5d85014be
+
+PODFILE CHECKSUM: a2da7f8ed69b440271c8ea6729872854f5cd5c18
+
+COCOAPODS: 1.5.2
